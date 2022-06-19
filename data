@@ -1,2 +1,0 @@
-flash = getPackageManager(). hasSystemFeature(PackageManager.FEATURE_CAMERA_FLASH);
-//ساخته شده در کانال سی تو سی آپارات
